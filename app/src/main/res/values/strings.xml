@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HamiltonSoundboard</string>
+    <string name="alexander_hamilton" />
+    <string name="i_know_where_to_find_you" />
+    <string name="hi" />
+    <string name="angelica" />
+    <string name="aaron_burr_sir" />
+    <string name="alexander_hamiltontwo">Alexander Hamilton</string>
+    <string name="aaron_burr_sir2">aaron burr sir</string>
+    <string name="angelica2">angelica</string>
+    <string name="hi2">hi</string>
+    <string name="i_know_where_to_find_you2">I know where to find you</string>
+    <string name="peggy">Peggy</string>
+    <string name="eliza">Eliza</string>
+    <string name="button">Button</string>
+    <string name="sisters">Sisters</string>
+    <string name="next_page">Next Page</string>
+    <string name="hercules_mulligan">Hercules Mulligan</string>
+</resources>
